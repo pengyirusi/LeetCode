@@ -33,7 +33,9 @@ public class S1104 {
 
         while (index >= 0) {
             res.add(0, tree[index]);
-            if (index == 0) break;
+            if (index == 0) {
+                break;
+            }
             index = (index - 1) / 2;
         }
 
