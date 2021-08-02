@@ -13,3 +13,7 @@ L
 leetcode/src/tree/S1104.java,6\7\675cb72c91ea13f18f23c1fc9515ce110c466a53
 M
 leetcode/src/string/S171.java,1\7\17a3da32243c0f245f637595b03b6554a08f78c2
+T
+$.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
