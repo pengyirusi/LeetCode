@@ -1,4 +1,4 @@
-package graph;
+package algorithm.graph;
 
 /**
  * Create by weiyupeng on 2021/8/2 20:06

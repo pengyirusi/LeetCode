@@ -1,6 +1,6 @@
-package tree;
+package algorithm.tree;
 
-import common.TreeNode;
+import algorithm.common.TreeNode;
 
 import java.util.*;
 

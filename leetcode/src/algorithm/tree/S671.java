@@ -1,12 +1,12 @@
-package tree;
+package algorithm.tree;
 
-import common.TreeNode;
+import algorithm.common.TreeNode;
 
 import java.util.Arrays;
 
 /**
  * Create by weiyupeng on 2021/7/27 22:42
- * 671.second-minimum-node-in-a-binary-tree
+ * 671.second-minimum-node-in-a-binary-java.tree
  */
 public class S671 {
     public int findSecondMinimumValue(TreeNode root) {

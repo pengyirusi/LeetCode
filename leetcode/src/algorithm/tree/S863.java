@@ -1,12 +1,11 @@
-package tree;
+package algorithm.tree;
 
-import common.TreeNode;
-
+import algorithm.common.TreeNode;
 import java.util.*;
 
 /**
  * Create by weiyupeng on 2021/7/28 20:53
- * 863.all-nodes-distance-k-in-binary-tree
+ * 863.all-nodes-distance-k-in-binary-java.tree
  */
 public class S863 {
     Map<TreeNode, TreeNode> map = new HashMap<>();

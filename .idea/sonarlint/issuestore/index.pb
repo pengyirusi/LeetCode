@@ -6,8 +6,6 @@
 w
 G.idea/sonarlint/issuestore/9/6/96424ae5094fc03568c3dd099d4dd3de8003db26,0\d\0dfa8a7f4a5a8bf157631ddbc9eaa123bd24df97
 K
-leetcode/src/tree/S671.java,9\9\991a5e7c6e4dd360a8047be4c8e3f870a6bc8010
-K
 leetcode/src/tree/S863.java,c\2\c2083e8d26f8e9c7ad06b157ed2e6839c97d0a64
 L
 leetcode/src/tree/S1104.java,6\7\675cb72c91ea13f18f23c1fc9515ce110c466a53
@@ -17,3 +15,5 @@ T
 $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
 L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

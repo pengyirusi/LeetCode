@@ -1,4 +1,4 @@
-package array;
+package algorithm.array;
 
 /**
  * Create by weiyupeng on 2021/8/3 19:43

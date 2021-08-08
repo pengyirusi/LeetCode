@@ -1,11 +1,11 @@
-package tree;
+package algorithm.tree;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Create by weiyupeng on 2021/7/29 18:14
- * 1104.path-in-zigzag-labelled-binary-tree
+ * 1104.path-in-zigzag-labelled-binary-java.tree
  */
 public class S1104 {
     public List<Integer> pathInZigZagTree(int label) {

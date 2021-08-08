@@ -1,4 +1,4 @@
-package string;
+package algorithm.string;
 
 /**
  * Create by weiyupeng on 2021/7/30 22:18

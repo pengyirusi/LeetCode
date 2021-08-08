@@ -1,4 +1,4 @@
-package common;
+package algorithm.common;
 
 import java.util.Objects;
 
