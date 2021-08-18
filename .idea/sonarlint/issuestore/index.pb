@@ -59,3 +59,5 @@ N
 leetcode/src/database/S175.sql,7\1\71d3e728ea7fa2ac80bdddb6ae8044a784ef90f5
 N
 leetcode/src/database/S176.sql,a\1\a1fd2e2d3ceddbc8fde0e8ee9b316ce745258760
+[
++leetcode/src/data_structure/array/S526.java,f\c\fc61bdb6f2b5cb9960b31d339725e2c2db752621
