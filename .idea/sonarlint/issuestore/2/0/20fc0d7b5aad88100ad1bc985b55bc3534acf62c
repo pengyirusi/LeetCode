@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(’èŠµûÿÿÿÿ
+J
+java:S6212+"/Declare this local variable with "var" instead.(…„¥Éûÿÿÿÿ
+J
+java:S6212,"/Declare this local variable with "var" instead.(ŞËí£ÿÿÿÿÿ
+J
+java:S62124"/Declare this local variable with "var" instead.(Äª¼¡ùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(äÍË®ıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(âÓ¥¿
+A
+java:S1481,"&Remove this unused "k" local variable.(ŞËí£ÿÿÿÿÿ

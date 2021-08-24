@@ -1,0 +1,6 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃÇàÃ
+A
+java:S1168"+Return an empty collection instead of null.(•πÔç
+E
+java:S6212"/Declare this local variable with "var" instead.(∏õ‡†

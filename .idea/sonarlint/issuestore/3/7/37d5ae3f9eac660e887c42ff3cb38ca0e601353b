@@ -1,0 +1,25 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¡Çæ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸ËÐ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÏÿîØ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡Çæ
+E
+java:S6212"/Declare this local variable with "var" instead.(¹¸ËÐ
+E
+java:S6212"/Declare this local variable with "var" instead.(»³½‹
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾þé–
+E
+java:S6212"/Declare this local variable with "var" instead.(»³½‹
+E
+java:S6212"/Declare this local variable with "var" instead.(ÀýÆÑ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ý‘€üÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(»³½‹
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ž‰ü‹øÿÿÿÿ
+E
+java:S62121"/Declare this local variable with "var" instead.(»³½‹

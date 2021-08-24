@@ -11,8 +11,6 @@ L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-E
-leetcode/leetcode.iml,2\0\201cfa937bd3fd31ead27fb57570c55d2bb5d59f
 \
 ,leetcode/src/data_structure/string/S171.java,d\9\d99eae62053be106e831c91a7edd13cc68cd8b87
 Z
@@ -33,8 +31,6 @@ Z
 +leetcode/src/data_structure/array/S611.java,2\4\24c4f03068a14d224f30127a8e5da45714a01ce6
 Z
 *leetcode/src/data_structure/tree/S671.java,0\1\01ef885b881dca43a2714a560d0aa9b18f0c75e2
-[
-+leetcode/src/data_structure/graph/S743.java,6\b\6bb4c8be7f58baf6589d7d35931f18f4e6e03556
 [
 +leetcode/src/data_structure/graph/S802.java,3\7\37d5ae3f9eac660e887c42ff3cb38ca0e601353b
 [
