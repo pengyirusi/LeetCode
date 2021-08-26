@@ -1,0 +1,17 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÏÿîØ
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡Çæ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾þé–
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ý‘€üÿÿÿÿ
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ž‰ü‹øÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¡Çæ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸ËÐ
+0
+java:S1220""Move this file to a named package.

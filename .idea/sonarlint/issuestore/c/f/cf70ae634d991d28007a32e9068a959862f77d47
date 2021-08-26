@@ -1,0 +1,6 @@
+
+A
+java:S1168	"+Return an empty collection instead of null.(•πÔç
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃÇàÃ
+0
+java:S1220""Move this file to a named package.
