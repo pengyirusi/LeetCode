@@ -77,3 +77,17 @@ U
 %.idea/libraries/scala_sdk_2_11_12.xml,c\e\cef95c038637dd3aac08d328443360fcec4a8687
 J
 leetcode/src/TreeNode.java,d\f\df5b0fe7cb927f3ffcc47689cb1c8f6f82a5612c
+w
+G.idea/sonarlint/issuestore/4/d/4d1c4b5ee8358318c58b6dc5b423bf0bbe7d6e31,e\9\e9f33ef962e871693bca0ee342dd8857987518eb
+w
+G.idea/sonarlint/issuestore/2/0/202ef2018eb214eba781181282fd506c1f38bbe0,b\1\b17df3c9e320de1d3a593992b405bd69c65a6a16
+w
+G.idea/sonarlint/issuestore/9/3/93456b084565ed7a8b49d8c234f5d82212e8c893,d\4\d44e50cfb108c9e4ec7965977ad9e27f69e53f7f
+w
+G.idea/sonarlint/issuestore/9/1/911549eb33431a29c5f2d73f2c10299d63f7f711,1\2\1277f8d352ab6786c288f1abeefc71ecbb895faf
+w
+G.idea/sonarlint/issuestore/c/b/cb7496177acdd94fd1ba1167d42ae0b1e9f30bda,2\c\2cc779cdba75e6ce37ea004f464b7ff0b7b0b43b
+w
+G.idea/sonarlint/issuestore/f/8/f8c74fda59209952c40dc0c91130201edbb4a756,8\4\84e76cd3787ec6e20f35508ed57dd24f2aa923d8
+w
+G.idea/sonarlint/issuestore/f/6/f633942d8e5c4d98c963bbbdc316324f2c9f1db5,2\8\283c9611b85f5fb81859e5169c68a61cbc7f1a2e
