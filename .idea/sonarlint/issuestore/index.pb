@@ -133,3 +133,5 @@ F
 leetcode/src/S36.scala,4\7\471bb1b8afd5108eb8b275f1569a055ad57c464b
 G
 leetcode/src/S292.scala,6\1\611df913afeb1b6620e355ebf7c5e8fc4ccb043e
+F
+leetcode/src/S22.scala,d\e\deed65a38c5252d89269240e07de93d04145917b
