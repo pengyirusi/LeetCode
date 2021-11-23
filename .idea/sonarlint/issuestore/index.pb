@@ -118,8 +118,6 @@ G
 G
 leetcode/src/S5848.java,3\e\3e9ce373261aa7d9405063706a5971e9b3ee60f1
 G
-leetcode/src/S470.scala,f\3\f3e73c14b09498cdcfc0c33cacd66d7dd343c41d
-G
 leetcode/src/S704.scala,3\e\3e559cccfdff8d0134747448833ed64e101ee83a
 H
 leetcode/src/S1221.scala,8\e\8e6cf6c1e7bb31fa3886947cf9f8376ff8b6937d
@@ -151,3 +149,9 @@ F
 leetcode/src/S437.java,3\8\38d5b8015d5ae8915ccceeec36e4e9ef1cfe272a
 F
 leetcode/src/S284.java,1\5\158ed3424f58591b94359d7f4c18a408a7d6909c
+F
+leetcode/src/S414.java,e\a\eacb56a0bf06a4764e8c1da8ebe23b3f04c32299
+F
+leetcode/src/S187.java,9\c\9c706dce9ca74e052687e3572133ed753616bf22
+G
+leetcode/src/S441.scala,0\5\054a00d1edd6fdb902727b7df46561c6a4d4b1fb
