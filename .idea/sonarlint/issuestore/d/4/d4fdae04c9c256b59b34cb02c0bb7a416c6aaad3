@@ -1,9 +1,0 @@
-
-V	java:S125
-"<This block of commented-out lines of code should be removed.(’èŠµûÿÿÿÿ
-A
-java:S1481*"&Remove this unused "k" local variable.(ŞËí£ÿÿÿÿÿ
-S	java:S1063"9Replace this use of System.out or System.err by a logger.(äÍË®ıÿÿÿÿ
-N	java:S1064"9Replace this use of System.out or System.err by a logger.(âÓ¥¿
-0
-java:S1220""Move this file to a named package.
