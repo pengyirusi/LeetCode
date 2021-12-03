@@ -1,7 +1,5 @@
 package cn.peng;
 
-import scala.Int;
-
 import java.util.Arrays;
 
 /**
