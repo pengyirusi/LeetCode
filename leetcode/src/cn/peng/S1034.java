@@ -30,7 +30,7 @@ public class S1034 {
             return;
         }
         vis[row][col] = true;
-        if (isBound(row, col)) {
+        if (isBound(row, col, grid)) {
             ans.add(new int[]{row, col});
         }
         for (int[] dir : dirs) {
@@ -46,8 +46,14 @@ public class S1034 {
         return x >= 0 && y >= 0 && x < m && y < n;
     }
 
-    private boolean isBound(int x, int y) {
-        return x == 0 || y == 0 || x == m-1 || y == n-1;
+    private boolean isBound(int x, int y, int[][] grid) {
+        for (int[] dir : dirs) {
+            int i = dir[0] + x, j = dir[1] + y;
+            if (i == -1 || j == -1 || i == m || j == n || grid[i][j] != grid[x][y]) {
+                return true;
+            }
+        }
+        return false;
     }
 
     /**
