@@ -155,3 +155,5 @@ R
 "leetcode/src/cn/peng/SJZ10_1.scala,6\3\638a94764783f2c46afdd8adec6d656b3dfe715f
 R
 "leetcode/src/cn/peng/TreeNode.java,7\9\790bffb520de727b50a54a8b283b227587bd98ed
+N
+leetcode/src/cn/peng/S438.java,b\d\bd323cb20d6a816a67c5c99f4e00a8c4dc690ea8
