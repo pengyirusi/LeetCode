@@ -23,8 +23,6 @@ R
 "leetcode/src/cn/peng/ListNode.java,1\e\1eaec0efd34074d7959de79bc6c134d354589755
 T
 $leetcode/src/cn/peng/ListNode2.scala,5\8\582f00a9e664e8eba954f7e7650b939bc37d6877
-N
-leetcode/src/cn/peng/Main.java,7\b\7b591257017d66c15545693c6b118ad250e17663
 M
 leetcode/src/cn/peng/S1.scala,d\3\d3411447c34a2553ee4a74c3b9856d38a1f032ce
 L
