@@ -6,7 +6,6 @@ public class Main {
 
     private static final double 社保比例 = 0.225;
     private static final double 公积金比例 = 0.24;
-    private static final double 发薪数 = 16;
     private static final double[][] 税率表 = new double[7][3];
     static {
         税率表[0][0] = 36000;税率表[0][1] = 0.03;税率表[0][2] = 0;

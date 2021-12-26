@@ -6,5 +6,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="scala-sdk-2.11.12" level="project" />
+    <orderEntry type="library" name="jdk8" level="project" />
   </component>
 </module>
